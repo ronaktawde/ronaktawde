@@ -8,5 +8,5 @@ Currently pursuing internship program Data Science through Yhills+IBM certificat
 - 📫 How to reach me: ronaktawde2@gmail.com
 - ⚡ Fun facts - I am SOCIAL MEDIA ANIMAL
 
-[![My Github Stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![My Github Stats](https://github-readme-stats.vercel.app/api?username=ronaktawde)](https://github.com/ronaktawde/github-readme-stats)
 
