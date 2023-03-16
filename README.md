@@ -8,3 +8,4 @@ Skills: Python, Numpy, Pandas, Matplotlib, Scikitlearn, Seaborn, Tensorflow, Pyt
 
 You can reach out to me - ronaktawde2@gmail.com
 
+[![My Github Stats](https://github-readme-stats.vercel.app/api?username=ronaktawde)](https://github.com/ronaktawde/github-readme-stats)
