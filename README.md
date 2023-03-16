@@ -1,3 +1,4 @@
+
 Hello World, 
 
 I am Ronak alias ronnie from India and I am transforming my career into DSc. industry with interest to work in AI / ML / CV domain. 
@@ -9,4 +10,5 @@ Currently pursuing internship program Data Science through Yhills+IBM certificat
 - ⚡ Fun facts - I am SOCIAL MEDIA ANIMAL
 
 [![My Github Stats](https://github-readme-stats.vercel.app/api?username=ronaktawde)](https://github.com/ronaktawde/github-readme-stats)
+
 
