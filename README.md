@@ -13,8 +13,6 @@ Skills: Python, Numpy, Pandas, TensorFlow, Pytorch, Open CV, CNN, ANN and DL
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ronaktawde&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ronaktawde)  
-
 ![GitHub metrics](https://metrics.lecoq.io/ronaktawde)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=ronaktawde)  
