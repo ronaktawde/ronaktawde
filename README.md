@@ -4,7 +4,7 @@
 
 I am Ronak alias ronnie from India and I am transforming my career into DSc. industry with interest to work in AI / ML / CV domain. Previously, I have worked in Healthcare and Supply Chain industry and also had a Business. Currently pursuing internship program in Data Science through Yhills+IBM certification and will be completing in May'23.
 
-Skills: Python, Numpy, Pandas, Matplotlib, Scikitlearn, Seaborn, Tensorflow, Pytorch
+Skills: Python, Numpy, Pandas, Matplotlib, Scikitlearn, Seaborn, OpenCV, OCR, YOLO_Object_Detection, Tensorflow, Pytorch
 
 You can reach out to me - ronaktawde2@gmail.com
 
