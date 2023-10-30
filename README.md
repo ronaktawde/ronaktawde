@@ -6,7 +6,7 @@ I am Ronak alias ronnie from India and I am transforming my career into DSc. ind
 Compeleted internship program in Data Science through Yhills+IBM certification in May2023.
 Completed IBM Data Analyst Professional Certification course(9 course series)
 
-Skills: Python, Numpy, Pandas, Matplotlib, Scipy, Scikitlearn, Seaborn, OpenCV, OCR, YOLO_Object_Detection, Tensorflow, Pytorch
+Skills: Python, Numpy, Pandas, Matplotlib, Scipy, Scikitlearn, Seaborn, OpenCV, OCR, YOLO_Object_Detection, Tensorflow, Pytorch, sql, sql queries, IBM Cognos, IBM db2, IBM watson studio
 
 You can reach out to me - ronaktawde2@gmail.com
 
