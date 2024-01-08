@@ -7,7 +7,7 @@ IBM certified Data Analyst
 I love Python and Data Science
 
 * 🌍  I'm based in Mumbai, India
-* ✉️  You can contact me at [ronakmtawde@gmail.com](mailto:ronakmtawde@gmail.com)
+* ✉️  You can contact me at [ronaktawde2@gmail.com](mailto:ronaktawde2@gmail.com)
 * 🧠  I'm learning MS Power BI Data Analyst Certification PL-300
 * 🤝  I'm open to collaborating on Healthcare AI projects like Lung cancer detection
 * ⚡  I am researching on innovation in automobile and computer vision coding
