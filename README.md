@@ -7,13 +7,10 @@ IBM certified Data Analyst
 I love Python and Data Science
 
 * 🌍  I'm based in Mumbai, India
-* ✉️  You can contact me at [ronaktawde2@gmail.com](mailto:ronakmtawde@gmail.com)
+* ✉️  You can contact me at [ronakmtawde@gmail.com](mailto:ronakmtawde@gmail.com)
 * 🧠  I'm learning MS Power BI Data Analyst Certification PL-300
 * 🤝  I'm open to collaborating on Healthcare AI projects like Lung cancer detection
 * ⚡  I am researching on innovation in automobile and computer vision coding
-
-<a href="https://www.github.com/ronaktawde" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/ronaktawde?logo=github&style=for-the-badge&color=22c55e&labelColor=ffffff" /></a>
 
 ### Skills
 
@@ -34,8 +31,6 @@ src="https://img.shields.io/github/followers/ronaktawde?logo=github&style=for-th
 <a href="http://www.github.com/ronaktawde"><img src="https://github-readme-stats.vercel.app/api?username=ronaktawde&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=22c55e&icon_color=22c55e&bg_color=ffffff&hide_border=true&show_icons=true" alt="ronaktawde's GitHub stats" /></a>
 
 <a href="http://www.github.com/ronaktawde"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ronaktawde&stroke=22c55e&background=ffffff&ring=22c55e&fire=22c55e&currStreakNum=22c55e&currStreakLabel=22c55e&sideNums=22c55e&sideLabels=22c55e&dates=22c55e&hide_border=true" /></a>
-
-<a href="http://www.github.com/ronaktawde"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=ronaktawde&bg_color=ffffff&color=22c55e&line=22c55e&point=22c55e&area_color=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <b>Top Repositories</b>
 
