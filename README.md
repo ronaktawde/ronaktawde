@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is ronnie
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rounak
 ===================================================================================================================================
 
 IBM certified Data Analyst
@@ -8,9 +8,9 @@ I love Python and Data Science
 
 * 🌍  I'm based in Mumbai, India
 * ✉️  You can contact me at [ronaktawde2@gmail.com](mailto:ronaktawde2@gmail.com)
-* 🧠  I'm learning MS Power BI Data Analyst Certification PL-300
-* 🤝  I'm open to collaborating on Healthcare AI projects like Lung cancer detection
-* ⚡  I am researching on innovation in automobile and computer vision coding
+* 🧠  I'm learning Generative AI for Developers through Google Cloud and Vertex AI / Vertex AI Studio
+* 🤝  I'm open to collaborating on Coputer Vision projects
+* ⚡  I'm interested to work as Machine Learning Engg. in Data Science Domain
 
 ### Skills
 
