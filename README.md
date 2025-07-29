@@ -8,9 +8,9 @@ I love Python and Data Science
 
 * 🌍  I'm based in Mumbai, India
 * ✉️  You can contact me at [ronaktawde2@gmail.com](mailto:ronaktawde2@gmail.com)
-* 🧠  I'm learning Generative AI for Developers through Google Cloud and Vertex AI / Vertex AI Studio
-* 🤝  I'm open to collaborating on Coputer Vision projects
-* ⚡  I'm interested to work as Machine Learning Engg. in Data Science Domain
+* 🧠  I'm Generative AI Engg.
+* 🤝  I'm open to collaborating on Computer Vision projects
+* ⚡  I'm working as in Data Science Domain and interested in innovative and industry disruptive projects
 
 ### Skills
 
