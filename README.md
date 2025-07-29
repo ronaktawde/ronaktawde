@@ -10,7 +10,7 @@ I love Python and Data Science
 * ✉️  You can contact me at [ronaktawde2@gmail.com](mailto:ronaktawde2@gmail.com)
 * 🧠  I'm Generative AI Engg.
 * 🤝  I'm open to collaborating on Computer Vision projects
-* ⚡  I'm working as in Data Science Domain and interested in innovative and industry disruptive projects
+* ⚡  I'm working in Data Science Domain and interested in innovative and industry disruptive projects
 
 ### Skills
 
